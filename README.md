@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B5E5015
+- 👋 Hi, I’m Shamim
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-B5E5015/B5E5015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Akonjet5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
